@@ -1,4 +1,4 @@
-## Android Lecture
+## Android Lesson
 
 > [@jisungbin](https://sungb.in) 의 안드로이드 과외 공간
 
